@@ -1,3 +1,4 @@
+
 # Road Accident Analysis Dashboard (Excel)
 
 ##  Project Overview
@@ -6,7 +7,7 @@ The dataset contains **3.07 million rows** and **21 fields**, making it a compre
 
 The dashboard is built entirely in **Excel** and allows stakeholders to monitor accident trends, key performance indicators (KPIs), and casualty distributions effectively.  
 
----
+
 
 ## Key Requirements & KPIs
 - **Primary KPIs:**
@@ -21,7 +22,7 @@ The dashboard is built entirely in **Excel** and allows stakeholders to monitor 
   - Distribution of casualties by road surface
   - Relation of casualties by **area / location** and **day vs night**  
 
----
+
 
 ## Stakeholders
 The dashboard is designed to serve the needs of multiple stakeholders:
@@ -34,7 +35,7 @@ The dashboard is designed to serve the needs of multiple stakeholders:
 - Traffic Management Agencies  
 - Public & Media  
 
----
+
 
 ## Project Structure
 ```
@@ -46,7 +47,7 @@ Road_Accident_Analysis/
 ├── README.md                     # Project documentation
 ```
 
----
+
 
 ## Dashboard Access
 ```
@@ -62,12 +63,14 @@ The interactive dashboard is included inside the Excel file:
 - Provides **casualty distribution** across vehicle type, location, and road type.  
 - Helps authorities take **data-driven decisions** to improve road safety.  
 
----
+
 
 ## 🛠 Tools Used
 - **Microsoft Excel** → Dashboard creation & data analysis  
 
----
+
 
 ## 📌 Conclusion
 The **Road Accident Analysis Dashboard** is a valuable tool for monitoring and analyzing accident data. It provides **actionable insights** that can assist government bodies, transport operators, and safety agencies in making informed decisions to reduce accidents and improve road safety.
+
+
